@@ -416,4 +416,5 @@
  :file/name-format :triple-lowbar
  :ui/show-brackets? false
  :feature/enable-timetracking? false
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? false
+ :publishing/all-pages-public? true}
