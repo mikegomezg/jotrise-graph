@@ -1,0 +1,25 @@
+- what is JotRise
+	- JotRise is a practice for getting value out of your personal notes
+	- It puts personal knowledge graphs and tools for thought at the center of the note-taking process
+	- It starts with a focus on the individual
+	- It helps them clarify how they can easily take notes in their daily work and reflect on those notes easily
+	- it is about applying processes to help you get more value out of what you write down
+- why JotRise
+	- there has recently been an explosion of new networked note-taking tools, known as tools for thought, but these tools can be difficult for new users to approach
+	- it is easy to lose information in these tools
+	- people need a framework for approaching these new note-taking tools
+	- these tools hold a lot of promise, but we need to collectively show what we want out of them and how they can improve
+- why the focus on Logseq?
+	- Logseq is free to use
+		- all you need is the time to learn it and an open mind
+	- Logseq is open-source
+		- we can understand how the software works
+		- we can change the software to fit out needs
+	- Logseq is file-based and local-first
+		- you decide where you want to store the data
+		- you decide what data you want to share
+		- you can incorporate your workflow with Git and easily share your work with others
+			- GitHub publish action
+			- sharing best practices
+	- Logseq is build on technologies that feed into paid programs
+		- both Roam and Tana use a similar approach, but Logseq helps you get started and move to those tools if you see the need
