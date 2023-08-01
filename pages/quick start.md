@@ -1,0 +1,6 @@
+- download logseq
+- clone / download starter repo
+- nav overview
+- view contents
+- test query
+- delete / merge page
