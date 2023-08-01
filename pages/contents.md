@@ -1,4 +1,4 @@
-- site pages
+- web pages
 	- [[JotRise introduction]]
 		- [[quick start]]
 		- [[about me]]

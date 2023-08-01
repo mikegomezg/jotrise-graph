@@ -1,6 +1,12 @@
 * {
-    --ls-primary-background-color: #ffffff;
-    --ls-secondary-background-color: #d6b97d61;
-    /* --ls-tertiary-background-color: #478eb42e;
-    --ls-quaternary-background-color: #9dd2ee1a; */
+    /* --ls-primary-background-color: #ffffff; */
+    --ls-secondary-background-color: #799eb161;
+    --ls-tertiary-background-color: #fff;
+    --ls-quaternary-background-color: #fff;
+}
+
+.page-reference:hover {
+    /* undo rule in Logseq */
+    /* background: var(--ls-secondary-background-color); */
+    background: none;
 }
