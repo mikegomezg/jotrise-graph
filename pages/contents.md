@@ -1,3 +1,12 @@
+- [[system]]
+	- [[process]] tags
+		- [[summary]]
+		- [[project]]
+		- [[ongoing]]
+		- [[questions]]
+		- [[requirements]]
+	- page fields
+		- [[purpose]]
 - web pages
 	- [[JotRise introduction]]
 		- [[quick start]]
@@ -10,6 +19,7 @@
 		- [[queries]]
 		- [[keyboard shortcuts]]
 		- [[more resources]]
+		- [[Logseq improvements]]
 	- [[use cases]]
 		- [[projects]]
 		- [[research]]
@@ -20,3 +30,6 @@
 		- [[contents check]]
 		- [[project review]]
 		- [[system maintenance]]
+- topics
+	- [[JotRise]]
+	- [[tools for thought]]
