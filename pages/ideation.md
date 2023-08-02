@@ -1,0 +1,26 @@
+- I love the outliner format
+- if you think about it, eveything is basically an outline
+- the outline is how we make sense of complexity
+- every conversation has context and that context is a decision about how we structure the entities and we need to decide what goes where even though we know there are multiple entites
+- it is like in economics when you need to do comparative pricing across 2 entitles when we know that the pricing is actually happening across all of them simultaneously
+- so it goes with conversation and thinking
+- so of course you can create a lot of bullets and structure them
+- and you can do it on a journal page so that you have a record of what you thought when
+- and you can copy that page and adjust it on another day
+- if you tag things the same way, you can see how that thinking evolves
+- Git also adds another dimension
+- I would love to see deeper integration between Git and Logseq and taking that commit graph and combining it with the daily journal [[Logseq improvements]]
+- manipulating outlines is an important skill and it doesn't work as smoothly as I would like
+- I end up using both the mouse and the keyboard
+- but it is helpful to look at a list of bullets and see the commonalities and rearrange them if needed
+- this idea of progressive refinement is important
+- I encountered it in cooking class where the chef distinguished fine dinning as simply restraunts with higher quality tools of refinement
+- and it is worth pointing that out in terms of ideas
+- not everything needs to be heavily refined, and ideas are at different stages
+- but for those that do, you can take them through this process of multiple days of reflection and then finally putting them on a dedicated page
+- there is this idea of reification, of making an idea a thing that you can manipulate
+- typically I don't create dedicated entities for specific ideas, but I do sometimes
+- in this case, you want to have a naming convention so that you can clearly identify the idea
+- this is a general issue with Logseq and other knowledge graph where each entity is identified by name
+- Tana does things to mitigate it
+- Roam may do this as well

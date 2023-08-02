@@ -1,0 +1,1 @@
+- need to manually copy projects from day to day if they are not complete - would be nice if there were more automation

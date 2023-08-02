@@ -1,0 +1,16 @@
+- I aspire to journal every day but the truth is that I don't get around to it
+- It is extremely useful when I am not feeling great or having a bad day
+- I like to use Typora and do free writing
+- I used to put that in a separate file but I started just doing it directly in Logseq
+- Just open the markdown file and start it with a bullet to get the   blocks going
+- The only downside is that you need to hit enter a lot, but it actually saves you time because you're being conscious about where the next thought is
+- afterwards, I go through and look for common themes
+- I rearange my entries based on those sometimes
+- it makes it easier than having multiple headings in the same page at different points, but you could do that
+- you could also tag an idea with multiple entities, but I woudl only do that for specific topics that are imporant
+- using the contents query is helpful for finding entities you create as part of the journaling process
+- journaling and ideation has the potential to generate a lot of entities, so you need to be selective in terms of what you include
+- I keep my journaling graph separate from other graphs
+- you don't want to have too many entities in a graph especially if they are unrelated
+- of course you could make interesting connections if you had all the entities in one place, but usually its easier to just hop to the other graph if you think of something really important
+- here is how you can do that
