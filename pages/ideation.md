@@ -9,7 +9,7 @@
 - and you can copy that page and adjust it on another day
 - if you tag things the same way, you can see how that thinking evolves
 - Git also adds another dimension
-- I would love to see deeper integration between Git and Logseq and taking that commit graph and combining it with the daily journal [[Logseq improvements]]
+- I would love to see deeper integration between Git and Logseq and taking that commit graph and combining it with the daily journal #[[Logseq improvements]]
 - manipulating outlines is an important skill and it doesn't work as smoothly as I would like
 - I end up using both the mouse and the keyboard
 - but it is helpful to look at a list of bullets and see the commonalities and rearrange them if needed

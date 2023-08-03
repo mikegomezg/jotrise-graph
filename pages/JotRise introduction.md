@@ -1,3 +1,5 @@
+- references
+	- TODO [Logseq faq](https://docs.logseq.com/#/page/faq)
 - what is JotRise
 	- JotRise is a practice for getting value out of your personal notes
 	- It puts personal knowledge graphs and tools for thought at the center of the note-taking process
