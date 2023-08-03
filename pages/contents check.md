@@ -1,0 +1,14 @@
+- an important part of keeping up with daily notes and making your notes useful is tracking how many entities you've created
+- you want to know how many pages there are and if there are any that you could remove or aren't using
+- I've come up with a useful query for doing that
+- but you might also be interested in page that you created in the contents page that either aren't being used any more or have minimal links
+- I haven't created a query for that, but one quick place you can check is by going to the "all pages" link and sorting it by backlinks
+- I hope to come up with a better way to track low-value pages
+- this brings up the larger issue of creating checks in your notes
+- you want to make sure that your notes are consistent in some way and that they are under control
+- it is easy for you to create a lot of unnecessary pages and create obstacles to sift through that prevent you from doing valuable work
+- going through this contents query is a type of neurological pruning that keeps the system functioning normally
+- you need to be prioritizing what is worth taking note of and what you can let go
+- and it is fine too to take notes on things and then deprioritize them later
+- you can reflect that in the contents by using an archive category
+- you don't have to remove the links though and you can always come back to them later if needed

@@ -1,0 +1,11 @@
+- when I'm planning my day, I look at the upcoming meetings and events that I have and decide which projects I need to put in the next day
+- I can use the `g t` shortcut to look at the next day but I don't typically use it
+- usually I just take notes on the current day and move them that morning to where they need to be
+- sometimes I don't even necessarily use the notes that I generate for a given day, but it is useful to have them there just in case
+- it is best to do a short summary for each project in the day so that an important point doesn't get lost in the sea of collapsed blocks
+- basically my day consists of a bunch of projects that I add notes to
+- usually I just leave them when the day is done
+- if they happen to be relevant in the future, I can just go to the page for the project and see what notes I have
+- but it is important to understand that review process so that I structure my daily notes correctly and in a way that is useful
+- that is what [[JotRise]] is all about: looking at the bigger picture of how you can use your notes so that you set them up in a useful way
+- [[Logseq]] isn't the only way to do it, but it does offer some unique benefits that make it worth adding to your arsenal

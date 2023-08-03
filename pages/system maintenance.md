@@ -1,0 +1,23 @@
+- the system category is about meta-processing
+- you are evaluating how good this note-taking system is
+- how well are you thinking about thinking and how easy are you making things for yourself
+- it is difficult to think in this mode all the time
+- it can be exhausting and it can be a major distraction
+- but it also can be extremely useful
+- think about when you are slow at work and you have the freedom to step back and consider how well you are doing things
+- often I will come up with experiments and things to investigate and I always benefit from going through that
+- I find writing things down to be really useful
+- but it is also helpful to have a thought structure to work from
+- and that is what this system review is doing for you
+- look at your process tags and see what types of notes you tend to take
+- create a tag for them and you can find links across projects
+- that is a main benefit
+- you begin to standardize your process so that it is clear how you should take notes and you can focus on the what
+- I like the [[project]] tag because it lets me mark up the sections of my pages that deal with what I should do
+- I can also tag specific entities in the [[Contents]] page as having a [[project]] tag
+- because it is so easy to create a task anywhere, you need to be careful about which pages should have projects in them
+- sub topics typically should not
+- the topics are important because you want to make distinctions
+- but you want to avoid tagging at too low a level because you can easily miss things
+- deciding when to create an entity and when to tag a note with that specific tag is an art and will come with experience
+- I'll look out for some examples that illustrate this

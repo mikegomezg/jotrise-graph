@@ -1,0 +1,6 @@
+- workflows consolidate many of the uses cases that I've discussed
+- they give a more realistic view of the activities I perform day-to-day
+- it's worth noticing that workflows span different use cases
+- you end up working on one thing and it leads you to something else
+- you can't truly implement a workflow until you understand the different goals you are trying to accomplish
+- then you can connect you activity into a larger whole

@@ -1,0 +1,12 @@
+- going through a normal reprioritization of projects is very helpful
+- its similar to the contents check except that your working at a higher level
+- you are asking yourself what are the projects that are important to you and what is the next action for each of them
+- in a way, it is good to get to the point where you know exactly what you need to do and you don't [[Logseq]]
+- at the end of the day, this is just a tool to help you clarify what you should be doing [[JotRise]]
+- if it were clear, you wouldn't need a note-taking tool like this
+- but the problem is that often it isn't clear and often there are so many competing priorities that it is helpful to write things down and structure things so that you now what to focus on
+- the thinking becomes written and reified and even if you don't use the notes it can be helpful
+- you should not forget about how you brain is working in the background
+- so much of it is running in parallel and just getting in the habit of expressing things in blocks and deciding how to group them can be very useful
+- so the goal here is to know what are the top priority projects for you, what their ultimate goals are and what are the next steps to achieving them
+- sometimes the ultimate plan may not be clear but as long as you keep revisiting the project and think about what you need to do next and what you don't need to do or would maybe like to do, that will help you make progress
