@@ -1,19 +1,41 @@
 - references
 	- TODO [Logseq faq](https://docs.logseq.com/#/page/faq)
+- audience
+  collapsed:: true
+	- either just beginning or trying to improve
+	- entrepreneur
+	- professional
+	- learner
+- what does the website offer?
+	- examples of how I use Logseq and TickTick
+	- guidance on how to use specific tools
+	- conceptual framework for the bigger picture
+		- Tools for Thought
+		- personal knowledge graphs
+		- AI
+	- qualities
+		- beginner-friendly
+		- enables discussion
+		- practical and doesn’t introduce technology for its own sake
+	- approach and outcomes
+		- focus on the individual
+		- take notes during daily work and find those notes easily
+		- develop systems for repeating useful procedures
+	- ideas
+		- applying processes
+		- use what you write down to further develop ideas
+- phrases
+	- efficiency and innovation
+- ideas
+	- what are the customer outcomes I want to deliver?
+	- JotRise as companion
+	- JotRise as a community
+	- how to take advantage of modern tools
+	- JotRise's mission is to help people make their work and personal notes more useful
+	- a practice for making digital notes more useful
 - what is JotRise
-	- JotRise is a practice for getting value out of your personal notes
-	- JotRise is a practice for making your personal notes more useful
-	- It provides both guidance on specific tools and a larger framework for improving how we take notes
-	- Notes more valuable and easier to work with
-	- JotRise is beginner-friendly
-	- JotRise enables discussion by providing examples of effective note-taking approaches
-	- It embraces emerging technologies like personal knowledge graphs and AI
-	- But it is also extremely practical and doesn’t introduce technology for its own sake
-	- It puts personal knowledge graphs and tools for thought at the center of the note-taking process
-	- It starts with a focus on the individual
-	- It helps them clarify how they can easily take notes in their daily work and reflect on those notes easily
-	- it is about applying processes to help you get more value out of what you write down
 - why JotRise
+  collapsed:: true
 	- there has recently been an explosion of new networked note-taking tools, known as tools for thought, but these tools can be difficult for new users to approach
 	- it is easy to lose information in these tools
 	- people need a framework for approaching these new note-taking tools
