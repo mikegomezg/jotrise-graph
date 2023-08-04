@@ -1,13 +1,5 @@
-- [[system]]
-	- [[process]] tags
-		- [[summary]]
-		- [[project]]
-		- [[ongoing]]
-		- [[questions]]
-		- [[requirements]]
-	- page fields
-		- [[purpose]]
 - web pages
+  collapsed:: true
 	- [[JotRise introduction]]
 		- [[quick start]]
 		- [[about me]]
@@ -33,3 +25,16 @@
 - topics
 	- [[JotRise]]
 	- [[tools for thought]]
+- [[system]]
+	- note tags
+		- [[project]]
+		- [[summary]]
+		- [[process]]
+		- [[ongoing]]
+		- [[questions]]
+	- tags specific to this project
+		- [[how-to]]
+		- [[scenario]]
+		- [[requirements]]
+	- page fields
+		- [[purpose]]
