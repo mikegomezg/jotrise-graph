@@ -1,0 +1,15 @@
+- audience
+	- either just beginning or trying to improve
+	- entrepreneur
+	- professional
+	- learner
+- questions
+	- what are the customer outcomes I want to deliver?
+- phrases
+	- efficiency and innovation
+- ideas
+	- JotRise as companion
+	- JotRise as a community
+	- how to take advantage of modern tools
+	- JotRise's mission is to help people make their work and personal notes more useful
+	- a practice for making digital notes more useful

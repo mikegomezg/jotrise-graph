@@ -1,5 +1,4 @@
 - web pages
-  collapsed:: true
 	- [[JotRise introduction]]
 		- [[quick start]]
 		- [[about me]]
