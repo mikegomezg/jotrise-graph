@@ -14,7 +14,7 @@
 - that is a main benefit
 - you begin to standardize your process so that it is clear how you should take notes and you can focus on the what
 - I like the [[project]] tag because it lets me mark up the sections of my pages that deal with what I should do
-- I can also tag specific entities in the [[Contents]] page as having a [[project]] tag
+- I can also tag specific entities in the Contents page as having a [[project]] tag
 - because it is so easy to create a task anywhere, you need to be careful about which pages should have projects in them
 - sub topics typically should not
 - the topics are important because you want to make distinctions

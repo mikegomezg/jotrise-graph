@@ -1,19 +1,23 @@
 - references
 	- [site page](https://www.jotrise.com)
 	- Logseq intro - blog
+	  collapsed:: true
 		- [Welcome to the Home of Logseqers!](https://blog.logseq.com/welcome/)
 		- blog purpose
 		- what to expect
 		- how to contribute
 		- next steps
 	- Logseq about - blog
+	  collapsed:: true
 		- [About Logseq and this blog](https://blog.logseq.com/about/)
 		- privacy-first
 		- open-source
 		- become better learners and thinkers
 	- Logseq getting started - blog
+	  collapsed:: true
 		- [How to Get Started With Networked Thinking and Logseq](https://blog.logseq.com/how-to-get-started-with-networked-thinking-and-logseq/)
 	- Logseq FAQ
+	  collapsed:: true
 		- [Logseq faq](https://docs.logseq.com/#/page/faq)
 - outline
 	- what is this site and why is it needed
