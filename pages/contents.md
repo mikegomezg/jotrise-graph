@@ -1,8 +1,10 @@
 - web pages
 	- [[JotRise introduction]]
+	  collapsed:: true
 		- [[quick start]]
 		- [[about me]]
 	- [[Logseq]]
+	  collapsed:: true
 		- [[user interface]]
 		- [[data storage]]
 		- [[blocks and pages]]
@@ -12,11 +14,13 @@
 		- [[more resources]]
 		- [[Logseq improvements]]
 	- [[use cases]]
+	  collapsed:: true
 		- [[projects]]
 		- [[research]]
 		- [[journaling]]
 		- [[ideation]]
 	- [[workflows]]
+	  collapsed:: true
 		- [[daily work]]
 		- [[contents check]]
 		- [[project review]]

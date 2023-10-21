@@ -1,4 +1,5 @@
 - references
+  collapsed:: true
 	- [How to create a Logseq graph using existing Markdown files](https://docs.logseq.com/#/page/how%20to%20create%20a%20logseq%20graph%20using%20existing%20markdown%20files)
 		- default folders where Logseq creates files
 		- Logseq can find files anywhere, but it will create files in specific folders
@@ -17,6 +18,7 @@
 		- uses end-to-end encryption
 		- files are stored on AWS
 - how Logseq works with files
+  collapsed:: true
 	- Logseq looks at all of the files in a folder and parses the markdown or orgmode files - it ignores the others unless they have links to them in Logseq
 	- it creates a database in memory with all of the file information
 		- the database is called [[Datascript]] and it is based on the [[Datalog]] database written in [[Clojure]]
@@ -24,6 +26,7 @@
 	- as you make changes to a block, it writes those changes to the files on your computer
 	- so auto-save is constantly happening in the background
 - how to sync files between devices
+  collapsed:: true
 	- Logseq has a paid sync function
 		- it encrypts the data and stores it in AWS
 		- you can sync 10 graphs at most and each graph can only be open on one device at a time
