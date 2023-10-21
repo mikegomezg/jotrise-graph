@@ -22,18 +22,23 @@
 		- [[project review]]
 		- [[system maintenance]]
 - topics
+  collapsed:: true
 	- [[JotRise]]
 	- [[tools for thought]]
 - [[system]]
+  collapsed:: true
 	- note tags
+	  collapsed:: true
 		- [[project]]
 		- [[summary]]
 		- [[process]]
 		- [[ongoing]]
 		- [[questions]]
 	- tags specific to this project
+	  collapsed:: true
 		- [[how-to]]
 		- [[scenario]]
 		- [[requirements]]
 	- page fields
+	  collapsed:: true
 		- [[purpose]]
